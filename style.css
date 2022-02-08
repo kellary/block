@@ -1,0 +1,6 @@
+.text-white, text-center p-1 {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -500px;
+}
